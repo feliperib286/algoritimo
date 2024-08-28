@@ -63,3 +63,15 @@ while( inicio <= fim ){
     inicio = inicio + 1;
 }
 console.log("Somatório:", soma);
+
+//Exercício 5
+
+i = 0;
+soma = 0;
+while( i < 5 ){
+    entrada = prompt("Entre com um número:");
+    entrada = parseInt(entrada);
+    soma = soma + entrada;
+    i = i + 1;
+}
+console.log("Somatório:", soma);
