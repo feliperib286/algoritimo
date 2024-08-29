@@ -75,3 +75,68 @@ while( i < 5 ){
     i = i + 1;
 }
 console.log("Somatório:", soma);
+
+//atividade 6
+i = 0;
+menor = Infinity ;
+while( i < 5 ){
+    entrada = prompt("Entre com um número:");
+    entrada = parseInt(entrada);
+    if(entrada < menor){
+        menor= entrada;
+    }
+    i= i +1;    
+}
+
+console.log("menor:", menor);
+
+
+//atividade7
+
+i = 0;
+menor = 0 ;
+while( i < 5 ){
+    entrada = prompt("Entre com um número:");
+    entrada = parseInt(entrada);
+    if(entrada > menor){
+        menor= entrada;
+    }
+    i= i +1;    
+}
+
+
+//atividade 8
+senha= "abc"
+entrada=""
+while(senha != entrada){
+    entrada= prompt("Entre com Senha")
+    if(senha== entrada){
+        console.log("Acesso Liberado")
+    }
+    else{
+        console.log("senha Incorreta")
+    }
+}
+
+//atividade 9
+senha = "abc";
+entrada = "";
+erro = 0;
+while (senha != entrada && erro < 3) {
+  entrada = prompt("Entre com Senha");
+  if (senha == entrada) {
+    console.log("Acesso Liberado");
+  } else {
+    console.log("senha Incorreta");
+  }
+  erro = erro + 1;
+ 
+}
+if ((erro >= 3)) {
+    console.log("excedeu as tentativas");
+}
+
+console.log("maior:", menor);
+
+
+
