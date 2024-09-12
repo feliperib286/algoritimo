@@ -1,0 +1,19 @@
+{
+  "name": "teste-quarta",
+  "version": "1.0.0",
+  "main": "teste.js",
+  "scripts": {
+    "atividade1": "node ./src/atividade1.js",
+    "atividade2": "node ./src/atividade2.js",
+    "atividade3": "node ./src/atividade3.js",
+    "atividade4": "node ./src/atividade4.js",
+    "atividade5": "node ./src/atividade5.js",
+    "atividade6": "node ./src/atividade6.js",
+    "atividade7": "node ./src/atividade7.js",
+    "atividade8": "node ./src/atividade8.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
