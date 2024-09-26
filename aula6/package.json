@@ -1,0 +1,22 @@
+{
+  "name": "aula",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "exer1": "node ./src/exer1",
+    "ex1" : "node ./src/ex1",
+    "ex2" : "node ./src/ex2",
+    "ex3" : "node ./src/ex3",
+    "ex4" : "node ./src/ex4",
+    "ex5" : "node ./src/ex5",
+    "ex6" : "node ./src/ex6",
+    "ex7" : "node ./src/ex7",
+    "ex8" : "node ./src/ex8",
+    "ex9" : "node ./src/ex9",
+    "ex10" : "node ./src/ex10"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
