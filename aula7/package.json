@@ -1,0 +1,21 @@
+{
+  "name": "aula7",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "ex1": "node ./src/ex1",
+    "dois": "node ./src/ex2",
+    "tres" : "node ./src/ex3",
+    "quatro" : "node ./src/ex4",
+    "cinco" : "node ./src/ex5",
+    "seis" : "node ./src/ex6",
+    "sete" : "node ./src/ex7",
+    "oito" : "node ./src/ex8"
+
+
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
