@@ -1,0 +1,127 @@
+// Aula 9
+// Exercício 1
+const contrato = {
+  inicio: "01/02/1995",
+  fim: "30/07/1997",
+  tipo: "locação",
+  valor: "123.45",
+};
+
+console.log("Início:", contrato.inicio);
+console.log("Fim:", contrato.fim);
+
+
+// Exercício 2
+const disciplina = {
+  nome: "Algoritmos",
+  carga: 80,
+  pesos: {
+    p1: 0.25,
+    p2: 0.35,
+    projeto: 0.4,
+  },
+  notas: {
+    p1: 8.2,
+    p2: 7.5,
+    projeto: 9,
+  },
+};
+
+console.log("P1:", disciplina.notas.p1);
+console.log("P2:", disciplina.notas.p2);
+console.log("P1:", disciplina.notas.projeto);
+
+
+// Exercício 3
+const disciplina = {
+  nome: "Algoritmos",
+  carga: 80,
+  pesos: {
+    p1: 0.25,
+    p2: 0.35,
+    projeto: 0.4,
+  },
+  notas: {
+    p1: 8.2,
+    p2: 7.5,
+    projeto: 9,
+  },
+};
+
+const p1 = disciplina.notas.p1 * disciplina.pesos.p1;
+const p2 = disciplina.notas.p2 * disciplina.pesos.p2;
+const projeto = disciplina.notas.projeto * disciplina.pesos.projeto;
+const total = p1 + p2 + projeto;
+console.log("Nota final:", total);
+
+//Exercicio 4
+const disciplina = {
+    nome: "Algoritmos",
+    carga: 80,
+    pesos: [0.25,0.35,0.4],
+    notas: [8.2,7.5,9]
+    };
+const p1 = disciplina.pesos[0] * disciplina.notas[0];
+const p2 = disciplina.pesos[1] * disciplina.notas[1];
+const projeto = disciplina.pesos[2] * disciplina.notas[2];
+const total = p1 + p2 + projeto;
+console.log("Nota final:", total);
+
+// Exercício 5
+const disciplina = {
+  nome: "Algoritmos",
+  carga: 80,
+  notas: [
+    {
+      peso: 0.25,
+      nota: 8.2,
+    },
+    {
+      peso: 0.35,
+      nota: 7.5,
+    },
+    {
+      peso: 0.4,
+      nota: 9,
+    },
+  ],
+};
+
+const p1 = disciplina.notas[0].nota * disciplina.notas[0].peso;
+const p2 = disciplina.notas[1].nota * disciplina.notas[1].peso;
+const projeto = disciplina.notas[2].nota * disciplina.notas[2].peso;
+const total = p1 + p2 + projeto;
+// Exercício 6
+const contrato = {
+  inicio: "01/02/1995",
+  fim: "30/07/1997",
+  tipo: "locação",
+  valor: "123.45",
+};
+
+const {inicio, fim} = contrato;
+console.log("Início:", inicio);
+console.log("Fim:", fim);
+
+
+//Exercício 7
+const disciplina = {
+  nome: "Algoritmos",
+  carga: 80,
+  pesos: {
+    p1: 0.25,
+    p2: 0.35,
+    projeto: 0.4,
+  },
+  notas: {
+    p1: 8.2,
+    p2: 7.5,
+    projeto: 9,
+  },
+};
+
+//const { p1, p2 } = disciplina.pesos;
+const { pesos:{p1, p2} } = disciplina;
+console.log("P1:", p1);
+
+//Exercicio 8
