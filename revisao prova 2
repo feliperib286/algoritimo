@@ -1,0 +1,120 @@
+
+
+// Exercício 1
+let entrada = "15";
+entrada = parseInt(entrada);
+let soma = entrada + entrada;
+console.log( soma );
+
+
+// Exercício 2
+let entrada = prompt("Entre com a idade:");
+entrada = parseInt(entrada);
+if( entrada < 18 ){
+ console.log("de menor");
+}
+else{
+ console.log("de maior");
+}
+
+
+// Exercício 3
+let i = 0;
+while( i < 6 ){
+    nro = Math.random();
+    console.log(nro);
+    i = i + 1;
+}
+
+
+// Exercício 4
+let i = 0;
+while( i < 6 ){
+    nro = Math.random() * 100;
+    nro = Math.floor(nro);
+    console.log(nro);
+    i = i + 1;
+}
+
+// Exercício 5
+let i = 0;
+while( i < 6 ){
+    nro = Math.random() * 100;
+    nro = Math.floor(nro);
+    if( nro%2 == 0 ){
+        console.log(nro);
+    }
+    i = i + 1;
+}
+
+
+// Exercício 6
+let i = 0;
+while( i < 6 ){
+    nro = Math.random() * 100;
+    nro = Math.floor(nro);
+    if( nro%2 == 0 ){
+        console.log(nro);
+        i = i + 1;
+    }
+}
+
+
+// Exercício 7
+let i = 0;
+while( i < 6 ){
+    nro = Math.random() * 100;
+    nro = Math.floor(nro);
+    if( nro%3 == 0 || nro%5 == 0 ){
+        console.log(nro);
+        i = i + 1;
+    }
+}
+
+
+// Exercício 8
+let i = 0;
+while( i < 6 ){
+    nro = Math.random() * 100;
+    nro = Math.floor(nro);
+    if( (nro%3 == 0 || nro%5 == 0) && nro > 20 ){
+        console.log(nro);
+        i = i + 1;
+    }
+}
+
+// Exercício 9
+let i = 0;
+while( i < 6 ){
+    nro = Math.random() * 100;
+    nro = Math.floor(nro);
+    if( nro < 20 || nro > 80 ){
+        console.log(nro);
+        i = i + 1;
+    }
+}
+
+
+// Exercício 10
+let i = 0;
+while( i < 6 ){
+    nro = Math.random() * 100;
+    nro = Math.floor(nro);
+    if( nro < 50 && nro%2 == 1 ){
+        console.log(nro);
+        i = i + 1;
+    } else if( nro >= 50 && nro%2 == 0 ){
+        console.log(nro);
+        i = i + 1;
+    }
+}
+// ***************************************
+let i = 0;
+while( i < 6 ){
+    nro = Math.random() * 100;
+    nro = Math.floor(nro);
+    if( (nro < 50 && nro%2 == 1) || ( nro >= 50 && nro%2 == 0 ) ){
+        console.log(nro);
+        i = i + 1;
+    }
+}
