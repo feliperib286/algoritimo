@@ -1,0 +1,18 @@
+{
+  "name": "codigo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "exemplo1": "node ./src/exemplo1.js",
+    "exemplo2": "node ./src/exemplo2.js",
+    "exemplo3": "node ./src/exemplo3.js",
+    "um": "node ./src/um.js",
+    "dois": "node ./src/dois.js",
+    "tres": "node ./src/tres.js",
+    "quatro": "node ./src/quatro.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}

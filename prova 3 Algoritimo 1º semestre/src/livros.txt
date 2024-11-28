@@ -1,0 +1,329 @@
+Disciplina$Título$Autor$Editora$Ano
+Algoritmos e Lógica de Programação$Algoritmos$CORMEN, T. H. et al.$Campus$2012
+Algoritmos e Lógica de Programação$Algoritmos: Lógica para desenvolvimento de programação de computadores$MANZANO, J. A. N. G; OLIVEIRA, J. F.$Érica$2009
+Algoritmos e Lógica de Programação$Algoritmos e Programação: Teoria e Prática$MEDINA, M., FERTIG, C.$Novatec$2006
+Algoritmos e Lógica de Programação$Como programar$DEITEL, H; DEITEL, P. C.$Pearson$2011
+Algoritmos e Lógica de Programação$Algoritmos e programação de computadores$BIANCHI, F. et al.$Campus$2012
+Algoritmos e Lógica de Programação$Algoritmos e Lógica de Programação$SOUZA, M. A. F. et al.$Cengage Learning$2019
+Algoritmos e Lógica de Programação$Introdução à Programação Com Python: Algoritmos e Lógica De Programação para iniciantes$MENEZES, O.$Novatec$2019
+Algoritmos e Lógica de Programação$Git: Guia prático$SILVERMAN, R. E.$Novatec$2019
+Desenvolvimento Web I$CSS - técnicas profissionais para um layout moderno$MEYER, E. S.$Bookman$2011
+Desenvolvimento Web I$Aprendendo JavaScript$POWERS, S.$Novatec$2010
+Desenvolvimento Web I$HTML5, CSS e JavaScript$PETRUCELLI, E. E.$NT Editora$2019
+Desenvolvimento Web I$HTML e CSS: Projete e Construa Websites$DUCKETT, J.$Alta Books$2016
+Desenvolvimento Web I$Git: Guia prático$SILVERMAN, R. E.$Novatec$2019
+Desenvolvimento Web I$Desenvolvimento web com Flask: Desenvolvendo aplicações web com Python$GRINBERG, M.$Novatec$2019
+Desenvolvimento Web I$XHTML/CSS: criação de páginas web (Informática)$GOMES, A. L.$Editora Senac$2019
+Desenvolvimento Web I$Criando sites com HTML-CSS-PHP: Construindo um projeto - Iniciante$QUIERELLI, D. A.$Clube dos Autores$2012
+Desenvolvimento Web I$HTML, XHTML e CSS Para Leigos$TITTEL, E., NOBLE, J.$Alta Books$2014
+Design Digital$Sintaxe da linguagem visual$DONDIS, D. A.$Martins Fontes$2015
+Design Digital$Gestalt do Objeto: sistema de leitura visual da forma$GOMES FILHO, J.$Escrituras$2013
+Design Digital$Usabilidade na Web: projetando websites com qualidade$NILSEN, J; LORANGER, H.$Elsevier$2007
+Design Digital$Estudo Dirigido de Coreldraw X5 Em Português$PRIMO, L.$Érica$2010
+Design Digital$Estudo Dirigido de Adobe Photoshop Cs5 Em Português- Para Windows$PRIMO, L.$Érica$2011
+Engenharia de Software I$Princípios de Análise e Projeto de Sistemas com UML$BEZERRA, Eduardo$Elsevier$2015
+Engenharia de Software I$Engenharia de Software$PRESSMAN, Roger; MAXIM, Bruce$McGraw Hill Brasil$2016
+Engenharia de Software I$Engenharia De Software$SOMMERVILLE, Ian$Pearson Brasil$2019
+Engenharia de Software I$Utilizando UML e padrões$LARMAN, Craig.$Bookman$2007
+Engenharia de Software I$Engenharia de software e sistemas de informação$REZENDE, Denis Alcides$Brasport$2005
+Engenharia de Software I$Análise e Projeto de Sistemas de Informação Orientados a Objetos$WASLAWICK Raul$Elsevier$2010
+Modelagem de Banco de Dados$Projeto de Banco de Dados e Teoria Relacional: Formas Normais e Tudo o Mais$DATE, C. J.$Novatec$2015
+Modelagem de Banco de Dados$Sistemas de Banco de Dados: Fundamentos e Aplicações$ELMASRI, R.; NAVATHE, S. B.$Pearson$2019
+Modelagem de Banco de Dados$Projeto de Banco de Dados$HEUSER, C. A.$Bookman$2010
+Modelagem de Banco de Dados$Projeto de Bancos de Dados Relacionais: Teoria e Prática$HARRINGTON, J. L.$Campus$2002
+Modelagem de Banco de Dados$Banco de dados: projeto e implementação$MACHADO, F. N. R.$Érica$2008
+Modelagem de Banco de Dados$Projeto e Modelagem de Banco de Dados$NADEAU, Tom et al.$Elsevier$2013
+Modelagem de Banco de Dados$Sistema de banco de dados$SILBERSCHATZ, Abraham; SUNDARSHAN, S.; KORTH, Henry F.$Elsevier$2016
+Sistemas Operacionais e Redes de Computadores$Arquitetura de Sistemas Operacionais$MACHADO, F. B.; MAIA, L. P.$LTC$2013
+Sistemas Operacionais e Redes de Computadores$Sistemas Operacionais Modernos$TANENBAUM, A. S.; BOS, H.$Pearson$2016
+Sistemas Operacionais e Redes de Computadores$Sistemas Distribuídos: princípios e paradigmas$TANENBAUM, A. S.; STEEN, M. V.$Pearson$2007
+Sistemas Operacionais e Redes de Computadores$Fundamentos de Sistemas Operacionais$SILBERSCHATZ, A.; GALVIN, P. B.; GAGNE, G.$LTC$2017
+Sistemas Operacionais e Redes de Computadores$Sistemas Distribuídos: princípios e paradigmas$TANENBAUM, A.  S. et al.$Prentice Hall$2007
+Sistemas Operacionais e Redes de Computadores$Sistemas distribuídos: conceitos e projeto$COULOURIS, George F. et al.$Bookman$2007
+Técnicas de Programação I$Programação orientada a objetos: Conceitos e técnicas$FURGERI, S.$Erica$2015
+Técnicas de Programação I$Introdução à Orientação a Objetos com C++ e Python: Uma abordagem prática$ NASCIMENTO JR. O. S.$Novatec$2017
+Técnicas de Programação I$Use a Cabeça! Java$SIERRA, K. BATES, B.$O’Rilly$2005
+Técnicas de Programação I$Entendendo Algoritmos: Um guia ilustrado para programadores e outros curiosos$BHARGAVA, A. Y.$Novatec$2019
+Técnicas de Programação I$Problemas Clássicos de Ciência da Computação com Python$KOPEC, D.$Novatec$2019
+Técnicas de Programação I$Código Limpo: Habilidades Práticas do Agile Software$MARTIN, Robert C.$Alta Books$2012
+Técnicas de Programação I$Python Fluente: Programação Clara, Concisa e Eficaz$RAMALHO, L.$Novatec$2015
+Técnicas de Programação I$Java para Iniciantes: Crie, Compile e Execute Programas Java Rapidamente$SCHILDT, H.$Bookman$2015
+Técnicas de Programação I$Git: Guia prático$SILVERMAN, R. E.$Novatec$2019
+Desenvolvimento Web II$Java para web: Desenvolvimento de aplicações$ALVES, W. P.$Érica$2015
+Desenvolvimento Web II$Aprenda Java EE 8: Aplicações Para Web com Spring Mvc e Hibernate$ANDRADE S. S.$SENAI-SP$2018
+Desenvolvimento Web II$Python Cookbook: Receitas para dominar Python$BEAZLEY D.; JONES, B. K.$Novatec$2019
+Desenvolvimento Web II$HTML5 e CSS3: Guia Prático e Visual$CASTRO, E., HYSLOP, B.$Alta Books$2013
+Desenvolvimento Web II$Introdução ao HTML5 e CSS3$CLARK, R., MURPHY, C., STUDHOME, O.$Alta Books$2014
+Desenvolvimento Web II$HTML e CSS: Projete e Construa Websites$DUCKETT, J.$Alta Books$2016
+Desenvolvimento Web II$O Guia do Mochileiro Python: Melhores Práticas Para Desenvolvimento$KENNETH R., K.; SCHLUSSER, T.$Novatec$2017
+Desenvolvimento Web II$Construindo APIs REST com Node.js$PEREIRA, C. R.$Casa do Código$2016
+Desenvolvimento Web II$JSON Básico: Conheça o formato de dados preferido da web$SMITH, B.$Novatec$2020
+Desenvolvimento Web II$Python e Django: Desenvolvimento web Moderno e ágil$MACIEL, F. M. B.$Alta Books$2020
+Desenvolvimento Web II$Aprenda Django 3 com Exemplos: Crie Aplicações web Profissionais em Python, Começando do Zero$MELÉ, A.$Novatec$2020
+Desenvolvimento Web II$Bootstrap 4: Conheça a biblioteca front-end mais utilizada no mundo$SOUZA, N.$Casa do Código$2018
+Desenvolvimento Web II$Desenvolvendo com Laravel: Um Framework Para a Construção de Aplicativos PHP Modernos$STAUFFER, M.$Novatec$2017
+Matemática Para Computação$Fundamentos Matemáticos para a ciência da computação: Matemática Discreta e Suas Aplicações$GERSTING, J. L.$LTC$2016
+Matemática Para Computação$Matemática Discreta para Computação e Informática$MENEZES, P. B.$Bookman$2013
+Matemática Para Computação$Matemática Discreta: Uma introdução$SCHEINERMAN, E.$Cengage Learning$2016
+Matemática Para Computação$Matemática Discreta para Ciências da Computação$STEIN, C. DRYSDALE.R.L., BOGART, K.$Pearson Universidades$2013
+Engenharia de Software II$Engenharia de Software$PRESSMAN, Roger; MAXIM, Bruce$McGraw Hill Brasil$2016
+Engenharia de Software II$Engenharia De Software$SOMMERVILLE, Ian$Pearson Brasil$2019
+Engenharia de Software II$Engenharia de Software: conceitos e práticas$WAZLAWICK, R. S.$Elsevier$2013
+Engenharia de Software II$Engenharia de Software na Prática$LENGHOLM JR. Hélio$Novatec$2010
+Engenharia de Software II$UML 2 - uma abordagem prática$GUEDES, G. T. A.$Novatec$2011
+Engenharia de Software II$Engenharia de Software: qualidade e produtividade com tecnologia$HIRAMA, K.$Elsevier$2011
+Engenharia de Software II$Engenharia de software$PAULA FILHO, W. P.$LTC$2010
+Engenharia de Software II$Engenharia de software: Teoria e prática$PETERS, James$Campus$2001
+Engenharia de Software II$Metodologias Ágeis: Engenharia de Software sob medida$SBROCCO, J. H. T. C.; MACEDO, P. C.$Érica$2012
+Engenharia de Software II$Fundamentos de Engenharia de Software$TSUI, F.; KARAM, O.$LTC$2013
+Banco de Dados – Relacional$Introdução a sistemas de bancos de dados$DATE, C. J.$Elsevier: Campus$2004
+Banco de Dados – Relacional$Sistemas de Banco de Dados$ELMASRI, R.; NAVATHE, S. B.$Pearson$2018
+Banco de Dados – Relacional$Sistema de banco de dados$SILBERSCHATZ, A.; SUNDARSHAN, S.; KORTH, H. F.$Elsevier Brasil$2016
+Banco de Dados – Relacional$Aprendendo SQL$BEAULIEU, A.$Novatec$2010
+Banco de Dados – Relacional$Fundamentos de Sistemas de Gerência de Banco de Dados$GILLENSON, M. L.$LTC$2006
+Banco de Dados – Relacional$Banco de Dados: Projeto e Implementação$MACHADO, F. N. R.$Érica$2005
+Banco de Dados – Relacional$Microsoft SQL Server 2005: Guia do Desenvolvedor$OTEY, M; OTEY, D.$Ciência Moderna$2007
+Banco de Dados – Relacional$Sistemas de Gerenciamento de Bancos de Dados$RAMAKRISHNAN, R.; GEHRKE, J.$Bookman$2008
+Banco de Dados – Relacional$Sistemas de Banco de Dados: Projeto, Implementação e Gerenciamento$ROB, P; CORONEL, C.$Cencage Learning$2011
+Banco de Dados – Relacional$Projeto e Modelagem de Bancos de Dados$TEOREY, T; LIGHTSTONE, S; NADEAU, T.$Campus$2006
+Estrutura de Dados$Estruturas de Dados$ASCENCIO, A. F. G.$Pearson Brasil$2011
+Estrutura de Dados$Estruturas de Dados$EDELWEISS, N; GALANTE, R.$Bookman$2009
+Estrutura de Dados$Estruturas de dados fundamentais: Conceitos e Aplicações$PEREIRA, S. L.$Érica$2009
+Estrutura de Dados$Algoritmos$CORMEN, T. H. et al.$Campus$2012
+Estrutura de Dados$Estruturas de Dados. Série: Livros Didáticos Informática UFRGS$EDELWEISS, N.; GALANTE, R.$Bookman$2008
+Estrutura de Dados$Estruturas de Dados & Algoritmos em Java$GOODRICH, M. T.; TAMASSIA, R.$Bookman$2013
+Estrutura de Dados$Objetos, abstração, estrutura de dados e projeto$KOFFMANN, E. B.$LTC$2008
+Estrutura de Dados$Lógica de Programação e Estruturas de Dados$PUGA, S.; RISSETTI, G.$Pearson$2016
+Estrutura de Dados$Estruturas de Dados Usando C$TENENBAUM, A. M.; LANGSAM, Y.; AUGENSTEIN, M. J.$Pearson$1995
+Técnicas de Programação II$Padrões de Projetos: Soluções Reutilizáveis de Software Orientados a Objetos$GAMMA, E. et al.$Bookman$2015
+Técnicas de Programação II$Use a Cabeça! Padrões de Projetos$FREEMAN, E.; FREEMAN E.$Alta Books$2007
+Técnicas de Programação II$Desenvolvimento Guiado Por Testes$KENT, B.$Bookman$2010
+Técnicas de Programação II$Aprendendo Padrões de Projeto em PHP: Programação Orientada a Objetos Para Projetos Dinâmicos$SANDERS, W.$Novatec$2013
+Técnicas de Programação II$DOMAIN-DRIVEN DESIGN$EVANS, E.$Alta Books$2020
+Técnicas de Programação II$Trabalho Eficaz Com Código Legado$FEATHERS, M. C.$Bookman$2013
+Técnicas de Programação II$Aprendendo Padrões de Projeto em Python: Tire Proveito da Eficácia dos Padrões de Projeto (design Patterns) em Python Para Resolver Problemas do Mundo Real em Arquitetura e Design de Software$GIRIDHAR, C.$Novatec$2016
+Técnicas de Programação II$Design Patterns com Java: Projeto Orientado a Objetos guiado por Padrões$GUERRA, E.$Casa do Código$2014
+Desenvolvimento Web III$Microsserviços Prontos Para a Produção: Construindo Sistemas Padronizados em uma Organização de Engenharia de Software$FOWLER, S.$Novatec$2017
+Desenvolvimento Web III$Aprenda Django 3 com Exemplos: Crie Aplicações web Profissionais em Python, Começando do Zero$MELÉ, A.$Novatec$2020
+Desenvolvimento Web III$TDD com Python: Siga o Bode dos Testes: Usando Django, Selenium e JavaScript$PERCIVAL, H. J. W.$Novatec$2017
+Desenvolvimento Web III$Aprendendo Node: Usando JavaScript no Servidor$POWERS, S.$Novatec$2017
+Desenvolvimento Web III$Programação web com Node e Express: Beneficiando-se da Stack JavaScript$BROWN, E.$Novatec$2020
+Desenvolvimento Web III$JAVASCRIPT e JQUERY: Desenvolvimento de Interfaces Web Interativas$DUCKETT, J.$Alta Books$2016
+Desenvolvimento Web III$Pro Node.Js para Desenvolvedores$IHRIG, C. J.$Ciência Moderna$2014
+Desenvolvimento Web III$Introdução ao SEO: Seu Guia Rápido às Práticas Eficientes de SEO$SHENOY, A.; PRABHU A.$Novatec$2016
+Álgebra Linear$Álgebra Linear com Aplicações$ANTON H., RORRES, C.$Bookman$2012
+Álgebra Linear$Álgebra Linear$FRANCO, N.$Pearson$2017
+Álgebra Linear$Álgebra Linear$STEINBRUCH, A., WINTERLE, P.$Pearson$1995
+Álgebra Linear$Data Science do Zero: Primeiras Regras com o Python$GRUS, J.$Alta Books$2019
+Álgebra Linear$Álgebra Linear$LIPSCHUTZ, S., LIPSON, M.$Bookman$2011
+Álgebra Linear$Álgebra Linear com Python: Aprenda na prática os principais conceitos; Série: Cientistas de Dados$SANTOS, R.F.V.$[S.l.: s.n.]$2018
+Álgebra Linear$Guia Mangá álgebra linear$TAKAHASHI, S.$Novatec$2012
+Gestão Ágil de Projetos de Software$Gerenciamento Ágil de Projetos: aplicações em produtos inovadores$AMARAL, D. C. et al.$Saraiva$2011
+Gestão Ágil de Projetos de Software$PMO Ágil: Escritório Ágil de Gerenciamento de Projetos$CRUZ, F.$BRASPORT$2016
+Gestão Ágil de Projetos de Software$SCRUM e Agile em Projetos Guia Completo: conquiste sua certificação e aprenda a usar métodos ágeis no seu dia a dia$CRUZ, F.$Brasport$2018
+Gestão Ágil de Projetos de Software$Scrum e PMBOK unidos no Gerenciamento de Projetos$CRUZ, F.$Brasport$2013
+Gestão Ágil de Projetos de Software$Guia de Prática Ágil$PMI$Project Management Institute$2018
+Gestão Ágil de Projetos de Software$Um Guia do Conhecimento em Gerenciamento de Projetos (Guia PMBoK)$PMI$Project Management Institute$2018
+Gestão Ágil de Projetos de Software$Gerenciamento de Projetos: Uma Abordagem Sistêmica para Planejamento, Programação e Controle$KERZNER, H.$Blucher$2011
+Gestão Ágil de Projetos de Software$Kanban and Scrum obtendo o melhor de ambos$KNIBERG, S., M.$C4Media Inc$2009
+Gestão Ágil de Projetos de Software$Scrum: guia prático$SUTHERLAND, J. J.$Sextante$2020
+Gestão Ágil de Projetos de Software$Fundamentos de gerenciamento de projetos$VALLE, André B. do et al.$FGV$2014
+Banco de Dados - Não Relacional$MongoDB: Construa novas aplicações com novas tecnologias$BOAGLIO, Fernando$Casa do Código$2015
+Banco de Dados - Não Relacional$Sistemas de Banco de Dados: Fundamentos e Aplicações$ELMASRI, R.; NAVATHE, S. B.$Pearson$2019
+Banco de Dados - Não Relacional$Nosql Essencial: Um Guia Conciso Para o Mundo Emergente da Persistência Poliglota$SADALAGE, P.; FOWLER, M.$Novatec$2013
+Banco de Dados - Não Relacional$Data Warehouse: conceitos, tecnologias, implementação e gerenciamento$SINGH, Harry$Makron Books$2001
+Banco de Dados - Não Relacional$Refatorando Aplicativos SQL$FAROULT, Stephane$Alta Books$2009
+Banco de Dados - Não Relacional$NoSQL: Como armazenar os dados de uma aplicação moderna$PANIZ, D.$Casa do Código$2016
+Banco de Dados - Não Relacional$Desvendando o Mongodb$SOUZA, M.$Ciência Moderna$2015
+Interação Humano Computador$Interação Humano-Computador$BARBOSA, S.D.J.; SILVA, B.S.$Elsevier-Campus$2010
+Interação Humano Computador$Interação Humano Computador$BENYON, D.$Pearson Prentice Hall$2011
+Interação Humano Computador$Arquitetura da informação: uma abordagem prática para o tratamento de conteúdo e interfaces em ambientes informacionais digitais$CAMARGO, L. S. A.; VIDOTTI, S. A. B. G.$Altas Books$2019
+Interação Humano Computador$Ergonomia e Usabilidade: Conhecimentos, Métodos e Aplicações$CYBIS, W.; BETIOL, A. H. e FAUST, R.$Novatec$2010
+Interação Humano Computador$Design Centrado no Usuário: um guia para o desenvolvimento de aplicativos amigáveis$LOWDERMILK, T.$Novatec$2013
+Interação Humano Computador$Design Thinking e Thinking Design: Metodologia, ferramentas e uma reflexão sobre o tema$MELO, A.; ABELHEIRA, R.$Novatec$2015
+Interação Humano Computador$Aprendendo Material Design: domine o Material Design e crie Interfaces bonitas e animadas para aplicativos móveis e web$MEW, k.$Novatec$2016
+Interação Humano Computador$Usabilidade Móvel$NIELSEN, J.; BUDIU, R.$Campus$2013
+Inglês I$Business Result: Elementary. Student Book Pack$HUGES, John et al.$Oxford University Press$2017
+Inglês I$Business Start-up: Student Book 1$IBBOTSON, Mark; STEPHENS, Bryan$Cambridge University Press$2015
+Inglês I$American English File: Student’s Book 1$OXENDEN, Clive; LATHAM-KOENIG, Christina$Oxford University Press$2018
+Inglês I$Teaching English to Speakers of other languages$CARTER, Ronald.; NUNAN, David$Cambridge University Press$2015
+Inglês I$In Company 3.0 Elementary Level Student’s Book Pack$CLARKE, Simon$MacMillan Publishers Ltd$2015
+Inglês I$Dicionário Longman Escolar para Estudantes Brasileiros. Português-Inglês/Inglês-Português com CD-Rom$LONGMAN$Pearson Education do Brasil$2009
+Inglês I$Essential Grammar in Use CD-Rom with answers$MURPHY, Raymond$Cambridge$2015
+Integração e Entrega Contínua$Entrega Contínua: Como Entregar Software de Forma Rápida e Confiável$HUMBLE J; PRIKLANDNICKI R.$Bookman$2013
+Integração e Entrega Contínua$Jornada DevOps: Unindo Cultura Ágil, Lean e Tecnologia Para Entrega de Software Com Qualidade$MUNIZ, A.; et al.$Brasport$2019
+Integração e Entrega Contínua$DevOps na prática: entrega de software confiável e automatizada$SATO D.$Casa do Código$2014
+Integração e Entrega Contínua$Entrega contínua em Android: Como automatizar a distribuição de apps$SILVA, R.$Casa do Código$2016
+Integração e Entrega Contínua$DevOps nativo de nuvem com Kubernetes$ARUNDEL, J. DOMINGUS, J.$Novatec$2019
+Integração e Entrega Contínua$Caixa de Ferramentas DevOps: Um guia para construção, administração e arquitetura de sistemas modernos$MORAES, G.$Casa do Código$2015
+Integração e Entrega Contínua$Integração Contínua com Jenkins$PIRES, A.; MILITÃO, J.$Casa do Código$2019
+Integração e Entrega Contínua$Descomplicando o Docker$VITALINO, J. F. N.; CASTRO, M. A. N.$Brasport$2018
+Integração e Entrega Contínua$Git: Guia prático$SILVERMAN, R. E.$Novatec$2019
+Laboratório de Desenvolvimento Web$Programação web com Node e Express: Beneficiando-se da stack JavaScript$BROWN, E.$Novatec$2020
+Laboratório de Desenvolvimento Web$JAVASCRIPT e JQUERY: Desenvolvimento de Interfaces Web Interativas$DUCKETT, J.$Alta Books$2016
+Laboratório de Desenvolvimento Web$Microsserviços Prontos Para a Produção: Construindo Sistemas Padronizados em uma Organização de Engenharia de Software$FOWLER, S.$Novatec$2017
+Laboratório de Desenvolvimento Web$Design Centrado no Usuário: um guia para o desenvolvimento de aplicativos amigáveis$LOWDERMILK, T.$Novatec$2013
+Laboratório de Desenvolvimento Web$TDD com Python: Siga o Bode dos Testes: Usando Django, Selenium e JavaScript$PERCIVAL, H. J. W.$Novatec$2017
+Laboratório de Desenvolvimento Web$HTML e CSS: Projete e Construa Websites$DUCKETT, J.$Alta Books$2016
+Laboratório de Desenvolvimento Web$SCRUM e Agile em Projetos Guia Completo: conquiste sua certificação e aprenda a usar métodos ágeis no seu dia a dia$CRUZ, F.$Brasport$2018
+Laboratório de Desenvolvimento Web$Entrega Contínua: Como Entregar Software de Forma Rápida e Confiável$HUMBLE, J.; FARLEY, D.$Bookman$2014
+Laboratório de Desenvolvimento Web$Segurança Para Desenvolvedores web: Usando JavaScript, HTML e CSS$MUELLER, J. P.$Novatec$2016
+Laboratório de Desenvolvimento Web$Git: Guia prático$SILVERMAN, R. E.$Novatec$2019
+Laboratório de Desenvolvimento Web$Descomplicando o Docker$VITALINO, J. F. N; CASTRO, M. A. N.$Brasport$2018
+Internet das Coisas e Aplicações$Explorando o Arduino: Técnicas e ferramentas para mágicas de engenharia$JEREMY, B.$Alta Books$2016
+Internet das Coisas e Aplicações$A Internet das Coisas$MAGRANI, Eduardo$FGV$2018
+Internet das Coisas e Aplicações$Redes de Sensores SemF$SILVA, J. S.; SILVA, BOAVIDA, F.$FCA$2016
+Internet das Coisas e Aplicações$Projetos de Automação Residencial com ESP8266: Aproveite a Potência Deste Minúsculo Chip Wi-Fi Para Construir Incríveis Projetos de Casas Inteligentes$BATRINU, C.$Novatec$2018
+Internet das Coisas e Aplicações$Explorando o Arduino: Técnicas e ferramentas para mágicas de engenharia$JEREMY, B.$Alta Books$2016
+Internet das Coisas e Aplicações$Python Para Análise de Dados: Tratamento de Dados com Pandas, NumPy e Ipython$McKINNEY, W.$Novatec$2018
+Internet das Coisas e Aplicações$Arduino Básico$MCROBERTS, M.$Novatec$2015
+Internet das Coisas e Aplicações$Internet das Coisas com ESP8266, Arduino e Raspberry Pi$OLIVEIRA, S.$Novatec$2017
+Internet das Coisas e Aplicações$Projetos com Python e Arduino: Como Desenvolver Projetos Práticos de Eletrônica, Automação e IoT$ZANETTI, H.A.P.; OLIVEIRA, C.L.V.$Erica$2020
+Programação para Dispositivos Móveis I$Android para Programadores$DEITEL, H.; DEITEL, A.$Bookman$2015
+Programação para Dispositivos Móveis I$Desenvolvendo Para IPhone e IPad: Aprenda a Desenvolver Aplicativos Utilizando iOS SDK$LECHETA, R. R.$Novatec$2018
+Programação para Dispositivos Móveis I$Use a Cabeça! Desenvolvendo Para Android$GRIFFITHS D.$Alta Books$2019
+Programação para Dispositivos Móveis I$Programando o Android$MEDNIEKS, Z. et al.$Novatec$2012
+Programação para Dispositivos Móveis I$Dominando o Android com Kotlin$GLAUBER, N.$Novatec$2019
+Programação para Dispositivos Móveis I$Google Android - aprenda a criar aplicações para dispositivos móveis com o Android SDK$LECHETA, R. R.$Novatec$2015
+Programação para Dispositivos Móveis I$Padrões de design para aplicativos móveis$NEIL, T.$Novatec$2012
+Programação para Dispositivos Móveis I$Use a Cabeça! - Desenvolvendo Para iPhone e iPad: O Guia Amigo do Seu Cérebro$PILONE, D.; PILONE, T.$Alta Books$2013
+Programação para Dispositivos Móveis I$Segurança de aplicativos Android$SIX, J.$Novatec$2012
+Estatística Aplicada$Estatística Básica$BUSSAB, W.O. e MORETTIN, P. A.$Saraiva$2013
+Estatística Aplicada$Data Science do Zero$GRUS, J.$Alta Books$2016
+Estatística Aplicada$Noções de Probabilidade e Estatística$MAGALHÃES, M. N. & LIMA, A. C. P.$Edusp$2010
+Estatística Aplicada$Introdução à Estatística: Atualização da Tecnologia$TRIOLA, M. F.$LTC$2011
+Estatística Aplicada$Estatística Prática para Cientistas de Dados$BRUCE, A., BRUCE, P.$Alta Books$2019
+Estatística Aplicada$Estatística Aplicada$DOWNING, D. JEFFREY, Clark$Saraiva$2011
+Estatística Aplicada$Estatística Aplicada$LARSON, R.; FARBER, B.$Pearson$2015
+Estatística Aplicada$Guia Mangá de Análise de Regressão$TAKAHASHI, S., INOUE, I.$Novatec$2019
+Estatística Aplicada$Guia Mangá de Estatística$TAKAHASHI, S., INOUE, I.$Novatec$2010
+Experiência do Usuário$UX Design: guia definitivo com as melhores práticas de UX$GRANT, W.$Novatec$2019
+Experiência do Usuário$Design centrado no usuário: um guia para o desenvolvimento de aplicativos amigáveis$LOWDERMILK, T.$Novatec$2013
+Experiência do Usuário$Introdução e Boas Práticas em Ux Design$TEIXEIRA, F.$Casa do Código$2014
+Experiência do Usuário$Leis da Psicologia Aplicadas a UX: usando psicologia para projetar produtos e serviços melhores$YABLONSKI, J.$Novatec$2020
+Experiência do Usuário$Mapeamento de Experiências: um guia para criar valor por meio de jornadas, blueprints e diagramas$KALBACH, J.$Altas Books$2017
+Experiência do Usuário$Redação estratégica para UX: aumente engajamento, conversão e retenção com cada palavra$PODMAJERSKEY, T.$Novatec$2019
+Inglês II$Business Result: Elementary. Student Book Pack$HUGES, John et al.$Oxford University Press$2017
+Inglês II$Business Start-up: Student Book 1$IBBOTSON, Mark; STEPHENS, Bryan$Cambridge University Press$2015
+Inglês II$American English File: Student’s Book 1$OXENDEN, Clive; LATHAM-KOENIG, Christina$Oxford University Press$2018
+Inglês II$Teaching English to Speakers of other languages$CARTER, Ronald.; NUNAN, David$Cambridge University Press$2015
+Inglês II$In Company 3.0 Elementary Level Student’s Book Pack$CLARKE, Simon$MacMillan Publishers Ltd$2015
+Inglês II$Dicionário Longman Escolar para Estudantes Brasileiros. Português-Inglês/Inglês-Português com CD-Rom$LONGMAN$Pearson Education do Brasil$2009
+Inglês II$Essential Grammar in Use CD-Rom with answers$MURPHY, Raymond$Cambridge$2015
+Computação em Nuvem I$Computação em Nuvem:Cloud Computing Tecnologias e Estratégias$CHEE J. S. B.; JUNIOR FRANKLIN C.$M. Books$2013
+Computação em Nuvem I$Cloud Computing: Nova Arquitetura de TI$VERAS, Manoel$Brasport$2012
+Computação em Nuvem I$Virtualização: Tecnologia Central do Datacenter$VERAS, Manoel$Brasport$2016
+Computação em Nuvem I$Amazon AWS: Descomplicando a computação na nuvem$ANTUNES L. J.$Casa do Código$2016
+Computação em Nuvem I$DevOps Nativo de Nuvem com Kubernetes: Como Construir, Implantar e Escalar Aplicações Modernas na Nuvem$ARUNDEL J.; DOMINGUS J.$Novatec$2019
+Computação em Nuvem I$Cloud Computing: A inteligência na nuvem e seu novo valor em TI$MOLINARI, L.$Érica/Saraiva$2017
+Computação em Nuvem I$Cloud Computing - Computação em Nuvem: transportando o mundo da tecnologia da informação$TAURION, Cesar$Brasport$2009
+Aprendizagem de Máquina$Inteligência Artificial: Uma Abordagem de Aprendizado de Máquina$FACELI, K. et al.$LTC$2011
+Aprendizagem de Máquina$Data Science do Zero$GRUS, J.$Alta Books$2016
+Aprendizagem de Máquina$Aprendizado de Máquina Para Leigos$MUELLER, J. P., MASSARON, L.$Alta Books$2019
+Aprendizagem de Máquina$Inteligência Artificial: Uma Abordagem de Aprendizado de Máquina$CARVALHO, A.$LTC$2011
+Aprendizagem de Máquina$Mãos à Obra: Aprendizado de Máquina com Scikit-Learn & TensorFlow$GÉRON, A.$Alta Books$2019
+Aprendizagem de Máquina$Python Para Análise de Dados: Tratamento de Dados com Pandas, NumPy e Ipython$MCKINNEY, W.$Novatec$2018
+Aprendizagem de Máquina$Python Para Data Science Para Leigos$MUELLER, J. P., MASSARON, L.$Alta Books$2020
+Aprendizagem de Máquina$Inteligencia Artificial$NORVIG, P.$LTC$2013
+Aprendizagem de Máquina$Guia Mangá de Análise de Regressão$TAKAHASHI, S., INOUE, I.$Novatec$2019
+Aprendizagem de Máquina$Guia Mangá de Estatística$TAKAHASHI, S., INOUE, I.$Novatec$2010
+Laboratório de Desenvolvimento Móvel$Building Android Apps in Python Using Kivy with Android Studio: With Pyjnius, Plyer, and Buildozer$GAD, A. F. M.$Apress$2019
+Laboratório de Desenvolvimento Móvel$Dominando o Android com Kotlin$GLAUBER, N.$Novatec$2019
+Laboratório de Desenvolvimento Móvel$React Native for Mobile Development$AKSHAT PAUL, ABHISHEK NALWAYA$Apress$2019
+Laboratório de Desenvolvimento Móvel$UX Design: guia definitivo com as melhores práticas de UX$GRANT, W.$Novatec$2019
+Laboratório de Desenvolvimento Móvel$Aplicações mobile híbridas com Cordova e PhoneGap$LOPES, S.$Casa do Código$2016
+Laboratório de Desenvolvimento Móvel$Padrões de design para aplicativos móveis$NEIL, T.$Novatec$2012
+Laboratório de Desenvolvimento Móvel$Segurança de aplicativos Android$SIX, J.$Novatec$2012
+Laboratório de Desenvolvimento Móvel$SCRUM e Agile em Projetos Guia Completo: conquiste sua certificação e aprenda a usar métodos ágeis no seu dia a dia$CRUZ, F.$Brasport$2018
+Laboratório de Desenvolvimento Móvel$React Native in Action Developing iOS and Android apps with JavaScript$DABIT, NADER$Manning Publications$2019
+Laboratório de Desenvolvimento Móvel$Xamarin Forms: Desenvolvimento de aplicações móveis multiplataforma$ARAUJO, E. C.$Casa do Código$2017
+Laboratório de Desenvolvimento Móvel$Iniciando com Flutter Framework: Desenvolva aplicações móveis no Dart Side!$MARINHO, L. H.$Casa do Código$2020
+Laboratório de Desenvolvimento Móvel$Desenvolvimento Profissional Multiplataforma para Smartphone$SARAH. A.$Alta Books$2012
+Programação para Dispositivos Móveis II$Ionic 4: Desenvolvimento multiplataforma para dispositivos móveis$ARAUJO, E. C.$Casa do Código$2020
+Programação para Dispositivos Móveis II$React Native: Desenvolvimento de aplicativos mobile com React$PINHO, D. M., ESCUDELARIO, B.$Casa do Código$2020
+Programação para Dispositivos Móveis II$Desenvolvimento Profissional Multiplataforma para Smartphone$SARAH. A.$Alta Books$2012
+Programação para Dispositivos Móveis II$Cordova avançado e PhoneGap: Um guia detalhado do zero à publicação$SOUZA, N.$Casa do Código$2018
+Programação para Dispositivos Móveis II$Flutter na Prática: Melhore seu Desenvolvimento Mobile com o SDK Open Source Mais Recente do Google$ZAMMETTI, F.$Novatec$2020
+Programação para Dispositivos Móveis II$React Native for Mobile Development$AKSHAT PAUL, ABHISHEK NALWAYA$Apress$2019
+Programação para Dispositivos Móveis II$Xamarin Forms: Desenvolvimento de aplicações móveis multiplataforma$ARAUJO, E. C.$Casa do Código$2017
+Programação para Dispositivos Móveis II$React Native in Action Developing iOS and Android apps with JavaScript$DABIT, NADER$Manning Publications$2019
+Programação para Dispositivos Móveis II$Building Android Apps in Python Using Kivy with Android Studio: With Pyjnius, Plyer, and Buildozer$GAD, A. F. M.$Apress$2019
+Programação para Dispositivos Móveis II$Desenvolvimento de Aplicativos Móveis com Xamarin Fundamentos do Xamarin. Forms e da criação de códigos C# multiplataforma$HARMES, D.$Novatec$2015
+Programação para Dispositivos Móveis II$Aplicações mobile híbridas com Cordova e PhoneGap$LOPES, S.$Casa do Código$2016
+Programação para Dispositivos Móveis II$Iniciando com Flutter Framework: Desenvolva aplicações móveis no Dart Side!$MARINHO, L. H.$Casa do Código$2020
+Segurança no Desenvolvimento de Aplicações$Pentest em aplicações web$MORENO D.$Novatec$2017
+Segurança no Desenvolvimento de Aplicações$Segurança para desenvolvedores web$MUELLER J. P.$Novatec$2016
+Segurança no Desenvolvimento de Aplicações$Black Hat Python: Programação Python Para Hackers e Pentesters$SEITZ J.$Novatec$2015
+Segurança no Desenvolvimento de Aplicações$Segurança em aplicações Web$FERREIRA, Rodrigo$Casa do Código$2017
+Segurança no Desenvolvimento de Aplicações$Testes de Invasão: Uma introdução prática ao hacking$WEIDMAN G.$Novatec$2014
+Fundamentos da Redação Técnica$Língua Portuguesa: noções básicas para cursos superiores$ANDRADE, M. M.; HENRIQUES, A.$Atlas$2009
+Fundamentos da Redação Técnica$Como escrever textos técnicos e profissionais$DINTEL, F.$Gutenberg$2011
+Fundamentos da Redação Técnica$O texto sem mistério: leitura e escrita na universidade$LOUZADA, M. S.; GOLDSTEIN, N. S.; IVAMOTO, R.$Ática$2018
+Fundamentos da Redação Técnica$Prática de Texto: para estudantes universitários$FARACO, C. A.; TEZZA, C.$Vozes$2016
+Fundamentos da Redação Técnica$Produção Textual, Análise de Gêneros e Compreensão$MARCUSCHI, L. A.$Parábola Editorial$2008
+Inglês III$Business Result: Elementary. Student Book Pack$HUGES, John et al.$Oxford University Press$2017
+Inglês III$Business Start-up: Student Book 1$IBBOTSON, Mark; STEPHENS, Bryan$Cambridge University Press$2015
+Inglês III$American English File: Student’s Book 1$OXENDEN, Clive; LATHAM-KOENIG, Christina$Oxford University Press$2018
+Inglês III$Teaching English to Speakers of other languages$CARTER, Ronald.; NUNAN, David$Cambridge University Press$2015
+Inglês III$In Company 3.0 Elementary Level Student’s Book Pack$CLARKE, Simon$MacMillan Publishers Ltd$2015
+Inglês III$Dicionário Longman Escolar para Estudantes Brasileiros. Português-Inglês/Inglês-Português com CD-Rom$LONGMAN$Pearson Education do Brasil$2009
+Inglês III$Essential Grammar in Use CD-Rom with answers$MURPHY, Raymond$Cambridge$2015
+Computação em Nuvem II$AWS para desenvolvedores$LECHETA, Ricardo R.$Novatec$2014
+Computação em Nuvem II$Cloud Computing: A inteligência na nuvem e seu novo valor em TI$MOLINARI, L.$Érica/Saraiva$2017
+Computação em Nuvem II$Cloud Computing. Computação em Nuvem: uma Abordagem Prática$VELTE, A.$Alta Books$2015
+Computação em Nuvem II$DevOps Nativo de Nuvem com Kubernetes: Como Construir, Implantar e Escalar Aplicações Modernas na Nuvem$ARUNDEL J.; DOMINGUS J.$Novatec$2019
+Computação em Nuvem II$Architecting the Cloud:  Design Decisions for Cloud Computing Service Models (SaaS, PaaS  and  IaaS)$KAVIS, Michael J.$Wiley$2014
+Computação em Nuvem II$Virtualization Essentials$PORTNOY, M.$Sybex$2012
+Computação em Nuvem II$Beginning Serverless Computing: Developing with Amazon Web Services, Microsoft Azure, and Google Cloud$STIGLER, M.$Apress$2017
+Processamento de Linguagem Natural$Para conhecer linguística computacional$FERREIRA, M., LOPES, M.$Contexto$2019
+Processamento de Linguagem Natural$Construindo Chatbots com Python: Usando Natural Language Processing e Machine Learning$RAJ, S.$Novatec$2019
+Processamento de Linguagem Natural$Mineração de Dados da Web Social: Análise de dados do Facebook, Twitter, Linkedin e outros sites de mídia social$RUSSEL, M.A.$Novatec$2019
+Processamento de Linguagem Natural$Mãos à Obra: Aprendizado de Máquina com Scikit-Learn & TensorFlow$GÉRON, A.$Alta Books$2019
+Processamento de Linguagem Natural$Natural Language Processing in Action: Understanding, analyzing, and generating text with Python$HOBSON, L., COLE, H., HANNES, H.$Manning$2019
+Processamento de Linguagem Natural$Python Para Análise de Dados: Tratamento de Dados com Pandas, NumPy e Ipython$MCKINNEY, W.$Novatec$2018
+Processamento de Linguagem Natural$Python Para Data Science Para Leigos$MUELLER, J. P., MASSARON, L.$Alta Books$2020
+Processamento de Linguagem Natural$Guia Mangá de Análise de Regressão$TAKAHASHI, S., INOUE, I.$Novatec$2019
+Processamento de Linguagem Natural$Guia Mangá de Estatística$TAKAHASHI, S., INOUE, I.$Novatec$2010
+Processamento de Linguagem Natural$Practical Natural Language Processing: A Comprehensive Guide to Building Real-World NLP Systems$VAJJATA, S., MAJUMDER, B., GUPTA, A., SURANA, H.$O'Reilly Media$2020
+Laboratório de Desenvolvimento Multiplataforma$Programação web com Node e Express: Beneficiando-se da stack JavaScript$BROWN, E.$Novatec$2020
+Laboratório de Desenvolvimento Multiplataforma$JAVASCRIPT e JQUERY: Desenvolvimento de Interfaces Web Interativas$DUCKETT, J.$Alta Books$2016
+Laboratório de Desenvolvimento Multiplataforma$UX Design: guia definitivo com as melhores práticas de UX$GRANT, W.$Novatec$2019
+Laboratório de Desenvolvimento Multiplataforma$React Native in Action Developing iOS and Android apps with JavaScript$DABIT, NADER$Manning Publications$2019
+Laboratório de Desenvolvimento Multiplataforma$SCRUM e Agile em Projetos Guia Completo: conquiste sua certificação e aprenda a usar métodos ágeis no seu dia a dia$CRUZ, F.$Brasport$2018
+Laboratório de Desenvolvimento Multiplataforma$Aplicações mobile híbridas com Cordova e PhoneGap$LOPES, S.$Casa do Código$2016
+Laboratório de Desenvolvimento Multiplataforma$Padrões de design para aplicativos móveis$NEIL, T.$Novatec$2012
+Laboratório de Desenvolvimento Multiplataforma$Desenvolvimento Profissional Multiplataforma para Smartphone$SARAH. A.$Alta Books$2012
+Laboratório de Desenvolvimento Multiplataforma$Sistemas Distribuídos: Conceitos e Projetos$COULOURIS, G.$Bookman$2013
+Laboratório de Desenvolvimento Multiplataforma$A Internet das Coisas$MAGRANI, Eduardo$FGV$2018
+Laboratório de Desenvolvimento Multiplataforma$Segurança para desenvolvedores web$MUELLER J. P.$Novatec$2016
+Laboratório de Desenvolvimento Multiplataforma$Sistemas Distribuídos Princípios e Paradigmas$TANENBAUM, A. S.$Pearson$2017
+Laboratório de Desenvolvimento Multiplataforma$Introdução ao SEO: Seu Guia Rápido às Práticas Eficientes de SEO$SHENOY, A.; PRABHU A.$Novatec$2016
+Laboratório de Desenvolvimento Multiplataforma$Git: Guia prático$SILVERMAN, R. E.$Novatec$2019
+Mineração de Dados$Introdução à Mineração de Dados: Conceitos básicos, algoritmos e aplicações$CASTRO, L.N. FERRARI, D.G.$Saraiva$2016
+Mineração de Dados$Data Science do Zero$GRUS, JOEL$Alta Books$2016
+Mineração de Dados$Introdução ao Data Mining: Mineração de Dados$KUMAR, V., STEINBACH, M., TAN, P.N.$Ciência Moderna$2009
+Mineração de Dados$Mineração de Dados da Web Social: Análise de dados do Facebook, Twitter, LinkedIn e outros sites de mídia social$RUSSELL, M.A.$Novatec$2019
+Mineração de Dados$Introdução ao Data Mining$TAN, P.; STEINBACH, M; KUMAR, V.$Ciência Moderna$2009
+Mineração de Dados$Python Para Análise de Dados: Tratamento de Dados com Pandas, NumPy e Ipython$MCKINNEY, W.$Novatec$2018
+Mineração de Dados$Web Scraping com Python: Coletando mais dados da web moderna$MITCHELL, R.$Novatec$2019
+Mineração de Dados$Introdução à Mineração de Dados: Com Aplicações em R$SILVA, L. A; PERES, S. M., BOSCARIOLI C.$Elsevier Brasil$2017
+Qualidade e Testes de Software$Teste e análise de software: processos, princípios e técnicas$KOSCIANSKI, A.; PEZZE, M.; YOUNG, M.$Bookman$2008
+Qualidade e Testes de Software$Introdução ao Teste de Software$MALDONADO, J. C.; JINO, M.; DELAMARO, M. E.$Campus/Elsevier$2007
+Qualidade e Testes de Software$Jornada Ágil de Qualidade: aplique técnicas de qualidade no início do ciclo para implantação contínua de software$MUNIZ, Antonio et al.$Brasport$2020
+Qualidade e Testes de Software$Testes automatizados de software: um guia prático$ANICHE, Mauricio$Casa do Código$2015
+Qualidade e Testes de Software$Automatização de teste de software com ferramentas de software livre$MALDONADO, J. DELAMARO, M. VINCENZI, A.M. R.$Gen LTC$2018
+Qualidade e Testes de Software$Qualidade de software$SOARES, M. S.$Novatec$2007
+Ética Profissional e Patente$Propriedade intelectual: propriedade industrial, direito de autor, software, cultivares, nome empresarial$SILVEIRA, N.$Manole$2011
+Ética Profissional e Patente$Direito Digital e processo eletrônico$TEIXEIRA T.$Saraiva$2020
+Ética Profissional e Patente$Lei Geral de Proteção de Dados (LGPD): Guia de implantação$GARCIA R. L. et al.$Blucher$2020
+Ética Profissional e Patente$Direito autoral: conceitos essenciais$AFONSO, O.$Manole$2009
+Ética Profissional e Patente$Crimes digitais$CRESPO, M. X. F.$Saraiva$2011
+Ética Profissional e Patente$Ética e direitos humanos: uma perspectiva profissional$FELIZARDO, A. R.$InterSaberes$2012
+Ética Profissional e Patente$Direito de informática: comercialização e desenvolvimento internacional do software$PAESANI, L. M.$Atlas$2015
+Inglês IV$Business Result: Elementary. Student Book Pack$HUGES, John et al.$Oxford University Press$2017
+Inglês IV$Business Start-up: Student Book 1$IBBOTSON, Mark; STEPHENS, Bryan$Cambridge University Press$2015
+Inglês IV$American English File: Student’s Book 1$OXENDEN, Clive; LATHAM-KOENIG, Christina$Oxford University Press$2018
+Inglês IV$Teaching English to Speakers of other languages$CARTER, Ronald.; NUNAN, David$Cambridge University Press$2015
+Inglês IV$In Company 3.0 Elementary Level Student’s Book Pack$CLARKE, Simon$MacMillan Publishers Ltd$2015
+Inglês IV$Dicionário Longman Escolar para Estudantes Brasileiros. Português-Inglês/Inglês-Português com CD-Rom$LONGMAN$Pearson Education do Brasil$2009
+Inglês IV$Essential Grammar in Use CD-Rom with answers$MURPHY, Raymond$Cambridge$2015
